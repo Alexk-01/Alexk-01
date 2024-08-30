@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! 
+<h1>Alexander Kollias 
 
 <h2>👨‍💻 IT Projects:</h2>
 
