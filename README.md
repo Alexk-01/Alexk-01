@@ -9,6 +9,6 @@
 
 - <b>Cisco CCNA: Introduction To Networks</b>
 
-- <b>Currently studing for Microsoft IT Support Specialist </b>
+- <b>Currently studing for Microsoft Azure AZ-900 </b>
 
 
