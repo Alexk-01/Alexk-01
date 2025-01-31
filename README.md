@@ -5,7 +5,7 @@
 
 
   - [Active Directory Powershell Project](https://github.com/Alexk-01/ActiveDirectoryPowershellProject/tree/main)
-<h2> Certificates:</h2>
+
 
 
 
